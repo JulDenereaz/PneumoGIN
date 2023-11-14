@@ -20,7 +20,7 @@ edges <- edges %>%
 
 cogs <- read.table("cogs.txt", header=T)
 
-url1 <- "https://veeninglab.com/pneumobrowse-app/?loc=D39V.0%3A"
+url1 <- "https://veeninglab.com/pbd39v/?loc=D39V.0%3A"
 url2 <- "&tracks=DNA%2Cgff_operons%2Cgff_genes%2Cgff_TSS_term%2Cgff_regulatory%2CsgRNAlib0mm_XUE&highlight="
 
 ##### UI #####
